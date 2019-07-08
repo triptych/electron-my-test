@@ -1,0 +1,15 @@
+{
+  "name": "electron-my-test",
+  "version": "1.0.0",
+  "description": "a test electron app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Andrew Wooldridge",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^5.0.6"
+  }
+}
